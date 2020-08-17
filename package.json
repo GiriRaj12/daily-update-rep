@@ -1,0 +1,15 @@
+{
+  "name": "daily-git-updates",
+  "version": "1.0.0",
+  "description": "Daily Updates to git to checkin the chart ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsonfile": "^6.0.1",
+    "simple-git": "^2.17.0"
+  }
+}
